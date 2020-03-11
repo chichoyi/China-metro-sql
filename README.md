@@ -7,3 +7,5 @@
 地铁数据来源：高德地图
 
 [使用代码](https://github.com/qwIvan/china-metro)
+
+metro.py对原代码稍作修改，支持sql导出
